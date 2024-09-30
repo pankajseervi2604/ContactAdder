@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactAdder</string>
+    <string name="welcome_to_contact_info">Welcome to Contact Info</string>
+    <string name="please_add_new_contact">Please Add new Contact :</string>
+    <string name="add_contact">Add contact</string>
+    <string name="make_a_call">Make a call</string>
+    <string name="click_me">Click me!</string>
+    <string name="add_contact_1">Add Contact :</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="please_enter_your_phone_number">Please Enter Your Phone Number</string>
+    <string name="please_enter_your_full_address">Please Enter Your Full Address</string>
+    <string name="save">Save</string>
+    <string name="to_do">to do</string>
+    <string name="output">Output</string>
+</resources>
